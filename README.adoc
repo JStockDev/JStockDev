@@ -1,5 +1,0 @@
-= JStock
-
-My project portfolio. Might find some functioning ones beneath the mess.
-
-https://jstock.dev/
